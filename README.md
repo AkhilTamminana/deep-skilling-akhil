@@ -58,6 +58,9 @@ Depending on the assignment, this repository may include:
 | Week 2 | ✅ Completed |
 | Week 3 | ⏳ Upcoming |
 | Week 4 | ⏳ Upcoming |
+| Week 5 | ⏳ Upcoming |
+| Week 6 | ⏳ Upcoming |
+| Week 7 | ⏳ Upcoming |
 
 ## 📌 Note
 
